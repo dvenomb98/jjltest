@@ -45,7 +45,7 @@ function Signin() {
     
   
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen flex items-center justify-center py-10">
         <div className="container mx-auto flex items-center justify-center">
           
           <div className="bg-white p-5 px-10 rounded-sm md:w-1/2 lg:w-1/3 shadow-xl shadow-black/50 border border-transparent">
