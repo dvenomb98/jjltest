@@ -32,7 +32,7 @@ function Signin() {
   
             
              
-          <h1 className="font-bold text-xl text-center">Sign to your account</h1>
+          <h1 className="font-bold text-xl text-center">Sign in to your account</h1>
             
   
             {error && <p className="bg-red-600 text-center text-white p-1 my-2 rounded-sm">{error}</p>}
